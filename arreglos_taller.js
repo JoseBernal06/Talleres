@@ -29,8 +29,8 @@ const perfilUser = [
   console.log(datosPersonales);
   
   // este arreglo guarda los conociemientos 
-  const skills = ["Python", "MongoDB", "Java", "CSS", "HTML", "MySQL"];
-  const [a, b, c, d, e, f] = skills;
+  const skills = ["Python", "MongoDB", "Java", "CSS", "HTML", "MySQL", "C++"];
+  const [a, b, c, d, e, f, g] = skills;
   // se mostrara el lenguaje de programacion python
   console.log(a);
   
