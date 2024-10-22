@@ -3,7 +3,6 @@ En el siguiente repositorio se encuentra la practica realizada de taller en form
 
 * Taller 5 - "asyncronismo-dom"
 
-Rsolucion del taller
 
 
 
